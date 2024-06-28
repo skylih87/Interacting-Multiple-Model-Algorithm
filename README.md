@@ -2,13 +2,15 @@
 
 # My paper has been accepted by ` International Journal of Control, Automation and Systems`. I will release more interesting works and applications on target tracking soon. Please keep following our repository.
 
-![overall](https://github.com/skylih87/Interacting-Multiple-Model-Algorithm/assets/133297940/92bfa9bf-8fef-4654-b254-bb16c1cd9798)
+![overall](https://github.com/skylih87/Interacting-Multiple-Model-Algorithm/assets/133297940/92bfa9bf-8fef-4654-b254-bb16c1cd9798)![14](https://github.com/skylih87/Interacting-Multiple-Model-Algorithm/assets/133297940/4de74837-4b5b-46b2-adfc-dfb46a24d27f)
+
 
 
 ## Algorithm Introduction
 
 Infrared Small Target Detection Algorithm Using an Augmented Intensity and Density-Based Clustering 
-[Paper](https://github.com/user-attachments/files/16023247/Infrared.Small.Target.Detection.Algorithm.Using.an.Augmented.Intensity.and.Density-Based.Clustering.pdf)
+[Paper](https://github.com/user-attachments/files/16023504/An.Improved.Interacting.Multiple.Model.Algorithm.with.Adaptive.Transition.Probability.Matrix.Based.on.the.Situation.pdf)
+
 
 I has proposed a novel algorithm with clustering to achieve accurate single-frame infrared small target detection and develop an open-sourced infrared small target dataset (namely, SNU) in this paper. Experiments on both public and our self-developed datasets demonstrate the effectiveness of my method. The contribution of this paper are as follows:
 
