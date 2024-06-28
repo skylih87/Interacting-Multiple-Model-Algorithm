@@ -2,7 +2,7 @@
 
 My paper has been accepted by ` International Journal of Control, Automation and Systems`. I will release more interesting works and applications on target tracking soon. Please keep following our repository.
 
-![overall](https://github.com/skylih87/Interacting-Multiple-Model-Algorithm/assets/133297940/92bfa9bf-8fef-4654-b254-bb16c1cd9798)![14](https://github.com/skylih87/Interacting-Multiple-Model-Algorithm/assets/133297940/4de74837-4b5b-46b2-adfc-dfb46a24d27f)
+![14](https://github.com/skylih87/Interacting-Multiple-Model-Algorithm/assets/133297940/4de74837-4b5b-46b2-adfc-dfb46a24d27f)
 
 
 
